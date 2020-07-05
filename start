@@ -1,0 +1,1 @@
+go -mod=vendor run lib.go main.go
