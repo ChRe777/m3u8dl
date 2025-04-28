@@ -5,8 +5,10 @@ ORF live streams by using m3u8 library to
 get the informaion of the .ts files to
 download.
 
+![m3u8](https://cdn-icons-png.flaticon.com/512/9850/9850600.png)
 
-# m3u8 playlist
+
+## m3u8 playlist
 
 First read the masterplaylist. The masterplaylist contains
 the variant of all stream with different qualities.
